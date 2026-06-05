@@ -55,7 +55,10 @@ Data Generation Data Loading Data Cleaning Data Preprocessing Exploratory Data A
 
 
 output screenshots
+
+
 <img width="747" height="590" alt="image" src="https://github.com/user-attachments/assets/1a9954aa-16c0-4959-b9d0-73e1591937f6" />
+<img width="790" height="686" alt="image" src="https://github.com/user-attachments/assets/22b40027-3b31-4f78-b2a5-2de4e4151df5" />
 
 
 ** Conclusion
