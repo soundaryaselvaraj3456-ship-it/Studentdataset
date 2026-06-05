@@ -18,17 +18,11 @@ The dataset used in this project is synthetically generated and contains 250 stu
 
 Synthetic dataset generation using Faker Data cleaning and preprocessing Detailed exploratory data analysis Machine learning model implementation Insightful visualizations and findings
 
-    Data Preprocessing
-
 Data preprocessing is an essential step to convert raw data into a clean and usable format.
 
 ** Steps Performed:
 
 Checked missing values using isnull() Handled missing values using fillna() Removed duplicate records using drop_duplicates() Converted categorical variables into numerical using Label Encoding Applied feature scaling using StandardScaler Dropped unnecessary columns such as Student_ID and Name
-
-    This step improves data quality and model performance.
-
-    Exploratory Data Analysis (EDA)
 
 EDA helps in understanding the structure, patterns, and relationships within the dataset.
 
@@ -59,6 +53,7 @@ output screenshots
 
 <img width="747" height="590" alt="image" src="https://github.com/user-attachments/assets/1a9954aa-16c0-4959-b9d0-73e1591937f6" />
 <img width="790" height="686" alt="image" src="https://github.com/user-attachments/assets/22b40027-3b31-4f78-b2a5-2de4e4151df5" />
+<img width="693" height="566" alt="image" src="https://github.com/user-attachments/assets/06bae954-c2ce-4f64-8856-199aa09972dd" />
 
 
 ** Conclusion
