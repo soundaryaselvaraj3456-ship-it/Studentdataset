@@ -52,10 +52,11 @@ Python Pandas NumPy Matplotlib Seaborn Scikit-learn Faker ** Results & Findings 
 
 Data Generation Data Loading Data Cleaning Data Preprocessing Exploratory Data Analysis Model Training Model Evaluation Prediction Generation ** Generating Predictions Input new student data (marks, attendance, etc.) The trained model predicts overall performance Helps in identifying students who may need improvement ** Future Improvements Use real-world datasets for better accuracy Apply advanced models (XGBoost, Neural Networks) Add more features (study hours, behavior, activities) Deploy as a web application Integrate dashboards using Power BI or Tableau ** Applications Academic performance monitoring Identifying weak students Supporting teachers in decision-making Improving educational strategies ** Limitations Dataset is synthetic (not real-world data) Limited number of features Small dataset size (250 records) ** Author
 
-Name: [Vijaya lakshmi] Course: [BCA] Project Title: Student Performance Analysis Year: 2026
+
 
 output screenshots
-Screenshot 2026-03-27 100022 Screenshot 2026-03-27 100126 image image image image image
+<img width="747" height="590" alt="image" src="https://github.com/user-attachments/assets/1a9954aa-16c0-4959-b9d0-73e1591937f6" />
+
 
 ** Conclusion
 
